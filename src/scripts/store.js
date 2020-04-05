@@ -7,7 +7,7 @@ const apps = [
       jQuery,<br />
       CSS3, and<br />
       Javascript ( using MVC model ). <br />`,
-		img: './assets/img/quiz-app.jpg',
+		img: '../assets/img/quiz-app.jpg',
 		url: 'https://thinkful-ei-narwhal.github.io/Quiz-Full-App-Nick-Isaac/',
 		gitHub: 'https://github.com/thinkful-ei-narwhal/Quiz-Full-App-Nick-Isaac',
 	},
@@ -19,7 +19,7 @@ const apps = [
       jQuery,<br />
       CSS3, and<br />
       Javascript ( using MVC model ). <br />`,
-		img: './assets/img/bookmark-app.jpg',
+		img: '../assets/img/bookmark-app.jpg',
 		url: 'https://thinkful-ei-narwhal.github.io/-isaac_elesia-bookmark-app/',
 		gitHub: 'https://github.com/thinkful-ei-narwhal/-isaac_elesia-bookmark-app',
 	},
@@ -30,8 +30,8 @@ const apps = [
       HTML5,<br />
       CSS3, and<br />
       Javascript ( using MVC model ). <br />`,
-		img: './assets/apps/MatchingGame/img/MatchingGame.PNG',
-		url: './assets/apps/MatchingGame/index.html',
+		img: '../assets/apps/MatchingGame/img/MatchingGame.PNG',
+		url: '../assets/apps/MatchingGame/index.html',
 		gitHub: 'https://github.com/IsaacElesia/memory-game',
 	},
 	{
@@ -42,8 +42,8 @@ const apps = [
     CSS3,<br />
     Javascript ( using MVC model ), and<br />
     Webpack.<br />`,
-		img: './assets/apps/Foody/img/Foody.PNG',
-		url: './assets/apps/Foody/index.html',
+		img: '../assets/apps/Foody/img/Foody.PNG',
+		url: '../assets/apps/Foody/index.html',
 	},
 	{
 		name: 'Picture Gallery',
@@ -54,8 +54,8 @@ const apps = [
     Semantic Ui, and<br />
     React.<br />
     `,
-		img: './assets/apps/PicsGallery/img/PicsGallery.PNG',
-		url: './assets/apps/PicsGallery/index.html',
+		img: '../assets/apps/PicsGallery/img/PicsGallery.PNG',
+		url: '../assets/apps/PicsGallery/index.html',
 	},
 	{
 		name: 'B Jack',
@@ -65,8 +65,8 @@ const apps = [
     CSS3, and<br />
     JAVASCRIPT.<br />
     `,
-		img: './assets/apps/Bjack/img/back_cards-07.png',
-		url: './assets/apps/Bjack/index.html',
+		img: '../assets/apps/Bjack/img/back_cards-07.png',
+		url: '../assets/apps/Bjack/index.html',
 	},
 	{
 		name: 'Budget Calculator ',
@@ -75,8 +75,8 @@ const apps = [
     HTML5,<br />
     CSS, and<br />
     Javascript ( using MVC model ).<br />`,
-		img: './assets/apps/BudgetCal/img/budget.PNG',
-		url: './assets/apps/BudgetCal/index.html',
+		img: '../assets/apps/BudgetCal/img/budget.PNG',
+		url: '../assets/apps/BudgetCal/index.html',
 	},
 	{
 		name: 'Color Tester',
@@ -85,8 +85,8 @@ const apps = [
     HTML5,<br />
     CSS3, and <br />
     Javascript.<br />`,
-		img: './assets/apps/ColorTester/img/ColorTester.PNG',
-		url: './assets/apps/ColorTester/index.html',
+		img: '../assets/apps/ColorTester/img/ColorTester.PNG',
+		url: '../assets/apps/ColorTester/index.html',
 	},
 	{
 		name: 'L Shape Game',
@@ -96,8 +96,8 @@ const apps = [
       CSS ( css grid ), and<br />
       Javascript. <br />
       `,
-		img: './assets/apps/Lshape/img/Lshape.PNG',
-		url: './assets/apps/Lshape/index.html',
+		img: '../assets/apps/Lshape/img/Lshape.PNG',
+		url: '../assets/apps/Lshape/index.html',
 	},
 	{
 		name: 'Pig Game',
@@ -106,8 +106,8 @@ const apps = [
     HTML5,<br />
     CSS3, and<br />
     javascript.<br />`,
-		img: './assets/apps/PigGame/img/PigGame.PNG',
-		url: './assets/apps/PigGame/index.html',
+		img: '../assets/apps/PigGame/img/PigGame.PNG',
+		url: '../assets/apps/PigGame/index.html',
 	},
 	{
 		name: 'Video Tube',
@@ -118,8 +118,8 @@ const apps = [
     Semantic Ui, and<br />
     React.<br />
     `,
-		img: './assets/apps/VideoTube/img/VideoTube.PNG',
-		url: './assets/apps/VideoTube/index.html',
+		img: '../assets/apps/VideoTube/img/VideoTube.PNG',
+		url: '../assets/apps/VideoTube/index.html',
 	},
 ];
 
