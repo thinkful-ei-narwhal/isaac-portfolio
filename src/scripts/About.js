@@ -13,7 +13,7 @@ const aboutHeader = () => {
     <div  class="col-10 col-sm-8 col-md-7">
       <img
         class="authorPics"
-        src="../assets/img/isaac.jpg"
+        src="./assets/img/isaac.jpg"
         alt="Isaac Elesia's"
       />
     </div>
