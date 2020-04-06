@@ -95,7 +95,7 @@ const contactForm = () => {
 
 const renderContactForm = () => {
 	return `
-  <div class = 'col col-xs-11 col-sm-10 col-md-8 col-lg-8'>
+  <div class = 'col-11 col-sm-10 col-md-8 col-lg-8'>
     ${contactForm()}
   </div>`;
 };

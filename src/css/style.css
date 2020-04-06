@@ -77,30 +77,6 @@ body {
 	color: #020873;
 	max-width: 40rem;
 }
-@media only screen and (max-width: 56.25em) {
-	.isaac-logo {
-		max-width: 35rem;
-		font-size: 4rem;
-		top: -6rem;
-	}
-
-	.job-title {
-		top: -2rem;
-		font-size: 1rem;
-		max-width: 30rem;
-	}
-}
-@media only screen and (max-width: 37.5em) {
-	.isaac-logo {
-		max-width: 30rem;
-	}
-
-	.job-title {
-		top: 10rem;
-		font-size: 1rem;
-		max-width: 30rem;
-	}
-}
 
 .job-title {
 	position: absolute;
@@ -109,6 +85,32 @@ body {
 	font-size: 2rem;
 	color: #020873;
 	max-width: 40rem;
+}
+
+@media only screen and (max-width: 56.25em) {
+	.isaac-logo {
+		max-width: 35rem;
+		font-size: 4rem;
+		top: -6rem;
+	}
+
+	.job-title {
+		top: -1.5rem;
+		font-size: 1.7rem;
+		max-width: 30rem;
+	}
+}
+@media only screen and (max-width: 37.5em) {
+	.isaac-logo {
+		font-size: 3rem;
+		max-width: 30rem;
+	}
+
+	.job-title {
+		top: -2rem;
+		font-size: 1.5rem;
+		max-width: 30rem;
+	}
 }
 
 [class^='heading-'] {

@@ -2,9 +2,10 @@ import $ from 'jquery';
 import store from './store';
 import card from './Cards';
 
-const apps = store.apps.map((app, index) => {
+const apps = [];
+store.apps.forEach((app, index) => {
 	if (index < 3) {
-		return card.renderCard(app);
+		apps.push(card.renderCard(app));
 	}
 });
 
